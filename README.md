@@ -1,4 +1,4 @@
-# TekniKafa Sayac:
+# TekniKafa Sayac App
 ### 🚀 React JS  
  
 
