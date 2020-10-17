@@ -3,7 +3,8 @@
  
 In the project directory, you can run:
 
-### `npm install` after 
+### `npm install` 
+next step 👇🏽 
 ### `npm start`
 
 Runs the app in the development mode.<br />
