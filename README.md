@@ -20,4 +20,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 </h1>
 
  👉🏽Demo : https://teknikafa-sayac.vercel.app/  
- 👉🏽Tutorial : https://teknikafa.com/
+ 👉🏽Tutorial : https://teknikafa.com/reactjs-ogrenelim/
